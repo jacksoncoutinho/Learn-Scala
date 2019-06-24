@@ -13,3 +13,27 @@
   - Traits 
   - Closures  
   - Concurrency support 
+
+## Scala Data Types
+| Type  | Value Space |
+| ------------- | ------------- |
+| Boolean  | true or false  |
+| Byte  | 8 bit signed value  |
+| Short	| 16 bit signed value |
+| Char	| 16 bit unsigned Unicode character |
+| Int |	32 bit signed value |
+| Long |	64 bit signed value |
+| Float |	32 bit IEEE 754 single-precision float |
+| Double |	64 bit IEEE 754 double-precision float |
+| String |	A sequence of characters |
+| Unit | Corresponds to no value (void) |
+| Null | null or empty reference |
+| Nothing | The subtype of every other type; includes no values | 
+| Any | The supertype of any type; any object is of type Any |
+| AnyRef | The supertype of any reference type |
+
+Example to declare variables:
+> var myInt : Int
+
+> var myString : String
+* All the data types listed above are objects. There are no primitive types like in Java. This means that you can call methods on an Int, Long etc.
