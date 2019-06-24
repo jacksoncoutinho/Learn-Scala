@@ -1,5 +1,8 @@
 # Scala Introduction
-* Scala is both a Functional programming and Object Oriented programming language that runs on the JVM! 
+* Scala, short for Scalable Language, is a hybrid functional programming language.
+* It was designed by Martin Odersky. It was officially released for java platform in early 2004.
+* It is both a Functional programming and Object Oriented programming language that runs on the JVM! 
+* It is a pure object-oriented language in the sense that every value is an object.
 * Is a general purpose programming language providing support for functional programming and a strong static type system.  
 * Scala has a set of features which differ from Java. Some of these are: 
   - All types are objects  
